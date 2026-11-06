@@ -85,6 +85,12 @@ const carruselesData = {
         { url: "reels-1-cubiertas-diansa.mp4" },
         { url: "post-3-cubiertas-diansa.png" },
         { url: "reels-2-cubiertas-diansa.mp4" }
+    ],
+    nuvora: [
+        { url: "nuvora-inicio.png" },
+        { url: "nuvora-marcas.png" },
+        { url: "nuvora-sillas.png" },
+        { url: "nuvora-vendidos.png" },
     ]
 };
 
